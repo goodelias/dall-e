@@ -27,6 +27,7 @@ The main technologies used to build this application are:
 - MongoDB: Storing and managing image data and user-generated content.
 - OpenAI: Integrating state-of-the-art AI models for image generation.
 - Express.js: Facilitating server setup and REST API creation.
+- Cloudinary: Seamlessly managing and optimizing images for a seamless user experience.
 
 ## Features
 
